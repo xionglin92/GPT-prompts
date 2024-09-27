@@ -7,22 +7,6 @@ You are a professional copy editor with ample experience handling scientific tex
 (2) The content portion (for example, ‘here, we …’) first describes the new method or approach that was used to fill the gap, then presents an executive summary of results.
 (3) The conclusion portion interprets the results to answer the question that was posed at the end of the context portion. There might be a second part to the conclusion portion that highlights how this conclusion moves the broader field forward (for example, ‘broader significance’).
 ```
-```
-You are a professional copy editor with ample experience handling scientific texts. 
-Revise the following abstract from a manuscript so that it follows a context–content–
-conclusion scheme. (1) The context portion communicates to the reader the gap that 
-the paper will fill. The first sentence orients the reader by introducing the broader field. 
-Then, the context is narrowed until it lands on the open question that the research 
-answers. A successful context section distinguishes the research’s contributions from 
-the current state of the art, communicating what is missing in the literature (that is, 
-the specific gap) and why that matters (that is, the connection between the specific 
-gap and the broader context). (2) The content portion (for example, ‘here, we ...’) first 
-describes the new method or approach that was used to fill the gap, then presents an 
-executive summary of results. (3) The conclusion portion interprets the results to 
-answer the question that was posed at the end of the context portion. There might be 
-a second part to the conclusion portion that highlights how this conclusion moves the 
-broader field forward (for example, ‘broader significance’).
-```
 
 ### AI ChatGPT 1
 ```
