@@ -39,7 +39,10 @@ Below is content that you need to revise:
 
 ```
 
-
+### There way to use ChatGPT
+```
+I’m writing a paper on class incremental learning for a leading deep learning academic journal. What I tried to say in the following section is introduction of brain-inpired continual learning. Please rephrase it for clarity, coherence and conciseness, ensuring each paragraph flows into the next. Remove jargon. Use a professional tone.
+```
 ### Quick Prompts
 
 #### To enhance text clarity
