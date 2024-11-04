@@ -1,0 +1,9 @@
+# 
+
+‘‘‘
+=TEXT(AVERAGE(B2:B21), "0.00") & " \pm " & TEXT(SQRT(VAR.S(B2:B21)), "0.00")
+’’’
+
+=TEXT(AVERAGE(B2:B21), "0.00") & " \pm " & TEXT(SQRT(VAR.S(B2:B21)), "0.00")
+
+=TEXT(AVERAGE(B2:B21), "0.00") & " \pm " & TEXT(SQRT(VAR.S(B2:B21)), "0.00")
