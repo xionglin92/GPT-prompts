@@ -8,6 +8,8 @@ You are a professional copy editor with ample experience handling scientific tex
 (3) The conclusion portion interprets the results to answer the question that was posed at the end of the context portion. There might be a second part to the conclusion portion that highlights how this conclusion moves the broader field forward (for example, ‘broader significance’).
 ```
 
+
+
 ### AI ChatGPT 1
 ```
 I am writing a paper for nature, this is the abstract of my paper. I want you to act as an academic journal editor and English paper proofreader. Please revise the given English writting based on the following principles,
@@ -37,6 +39,12 @@ As a Chinese academic paper writing improvement assistant. Please revise the giv
 7. Enhance readability, such as converting long sentences into shorter ones: i will modify long sentences to make them easier to understand and read, while maintaining conciseness.
 Below is content that you need to revise:
 
+```
+
+
+### 润色表题
+```
+Please enhance the caption for Table Y to highlight the significance of the experimental results shown. Clarify any patterns that are important and how they contribute to the study's conclusions.
 ```
 
 ### There way to use ChatGPT
