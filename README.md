@@ -47,6 +47,16 @@ Below is content that you need to revise:
 Please enhance the caption for Table Y to highlight the significance of the experimental results shown. Clarify any patterns that are important and how they contribute to the study's conclusions.
 ```
 
+### 润色图题
+```
+Please rewrite the caption of Figure X to make it more academic and precise. Emphasize the technical details and purpose of the figure clearly, using formal language appropriate for scholarly writing.
+```
+
+### 润色方法图
+```
+Please revise the caption for Figure X to concisely describe the methodology illustrated. Ensure it’s clear what each part of the figure represents and its relevance to the process.
+```
+
 ### There way to use ChatGPT
 ```
 I’m writing a paper on class incremental learning for a leading deep learning academic journal. What I tried to say in the following section is introduction of brain-inpired continual learning. Please rephrase it for clarity, coherence and conciseness, ensuring each paragraph flows into the next. Remove jargon. Use a professional tone.
