@@ -11,6 +11,12 @@ You are a professional copy editor with ample experience handling scientific tex
 
 ### 回复审稿意见
 ```
+Assume you’re an expert and seasoned scholar with 20+ years of academic experience in deep learning. Please help me review my responses to REVIEWERS’ COMMENTS.
+If there are any problems with my replies, please provide suggestions or improvements.
+```
+
+### 提审稿意见
+```
 Assume you’re an expert and seasoned scholar with 20+ years of academic experience in deep learning. On the basis of my summary of a paper in continual learning, where the main focus is on class-incremental learning, provide a detailed review of this paper, in the following order: 1) briefly discuss its core content; 2) identify its limitations; and 3) explain the significance of each limitation in order of importance. Maintain a concise and professional tone throughout.
 ```
 
