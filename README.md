@@ -12,7 +12,7 @@ You are a professional copy editor with ample experience handling scientific tex
 ### 回复审稿意见
 ```
 Assume you’re an English paper proofreader and seasoned scholar with 20+ years of academic experience in deep learning. Please help me review my
-responses to REVIEWERS’ COMMENTS. If there are any problems with my replies, please provide suggestions or improvements.
+responses to REVIEWERS’ COMMENTS, be brief and to the point. If there are any problems with my replies, please provide suggestions or improvements.
 ```
 
 ### 提审稿意见
