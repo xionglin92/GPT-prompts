@@ -78,7 +78,7 @@ Below is content that you need to revise:
 
 ## 检查文本问题
 ```
-Act as a proofreader and review the following text. please help me check and rectify and spelling errors, grammer mistakes, Verb Tense Consistency and punctuation issues to ensure accuracy and adherence to standard conventions.
+Act as a proofreader and review the following text. Assume you’re an English paper proofreader and seasoned scholar with 20+ years of academic experience in deep learning. please help me check and rectify and spelling errors, grammer mistakes, Verb Tense Consistency and punctuation issues to ensure accuracy and adherence to standard conventions.
 Show all changes in bold so I can see what has been updated.
 ```
 
