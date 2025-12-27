@@ -1,49 +1,77 @@
 # Gemini 3.0 Flash
 ##1. 文献速读与结构化拆解
 ```
-你是一位资深学者，我已经上传了一篇学术文献，请帮我完成以下任务：1. 快速定位： 请列出文献的研究主题、核心研究问题（Research Question）以及整体的结构框架。2. 提炼关键： 概括其使用了什么研究方法，发现了什么核心机制，以及最关键的实验结果是什么。3. 找亮点： 明确指出这篇论文最大的学术贡献或创新点在哪里。4. 生成摘要： 将上述信息整理成一份结构清晰的学术摘要。
+你是一位资深学者，我已经上传了一篇学术文献，请帮我完成以下任务：1. 快速定位： 请列出文献的研究主题、核心研究问题
+（Research Question）以及整体的结构框架。2. 提炼关键： 概括其使用了什么研究方法，发现了什么核心机制，以及最关键
+的实验结果是什么。3. 找亮点： 明确指出这篇论文最大的学术贡献或创新点在哪里。4. 生成摘要： 将上述信息整理成一份结
+构清晰的学术摘要。
 ```
 
 ##2. 论文框架搭建与逻辑推演
 ```
-我正在准备一篇关于 智能模型持续学习 的论文。请利用多步骤链式推理，帮我生成一个完整的论文框架。要求：1. 拆解模块： 按照标准学术论文结构（背景、问题定义、理论基础、方法、实验设计等）进行拆解。2. 填充要点： 在每个模块下，列出2–3个核心逻辑要点。3. 批判性思维： 指出该研究潜在的核心假设是什么，有哪些可检验的变量，以及逻辑上可能存在的漏洞或挑战。4. 路径展示： 请展示你的思考路径，让我理解你是如何构建这个框架的。
+我正在准备一篇关于 智能模型持续学习 的论文。请利用多步骤链式推理，帮我生成一个完整的论文框架。要求：1. 拆解模块：
+按照标准学术论文结构（背景、问题定义、理论基础、方法、实验设计等）进行拆解。2. 填充要点： 在每个模块下，列出2–3个
+核心逻辑要点。3. 批判性思维： 指出该研究潜在的核心假设是什么，有哪些可检验的变量，以及逻辑上可能存在的漏洞或挑战。
+4. 路径展示： 请展示你的思考路径，让我理解你是如何构建这个框架的。
 ```
 
 ##3. 科研图表深度解读
 ```
-请解读我上传的这张科研图表，重点完成以下分析：1. 对象与结果： 说明图表的核心研究对象是什么，呈现了哪些数据结果。2. 公式与变量： 如果图中有公式或特殊符号，请拆解其含义和变量定义。3. 逻辑关联： 分析关键数据之间的关联逻辑（例如趋势、因果关系）。4. 结论总结： 无需撰写基础图例，请直接总结该图表支持了什么核心结论。
+请解读我上传的这张科研图表，重点完成以下分析：1. 对象与结果： 说明图表的核心研究对象是什么，呈现了哪些数据结果。
+2. 公式与变量： 如果图中有公式或特殊符号，请拆解其含义和变量定义。3. 逻辑关联： 分析关键数据之间的关联逻辑（例如趋势、
+因果关系）。4. 结论总结： 无需撰写基础图例，请直接总结该图表支持了什么核心结论。
 ```
 
 ##4. 学术润色（区分需求）
 ```
-你是一名熟悉人工智能机器学习方向领域的写作专家。请帮我修改这段文字，确保使用的术语、句式符合该学科的惯用表达。请保持专业性，不要过度修饰辞藻，绝对不得编造或修改任何数据与事实。
+你是一名熟悉人工智能机器学习方向领域的写作专家。请帮我修改这段文字，确保使用的术语、句式符合该学科的惯用表达。
+请保持专业性，不要过度修饰辞藻，绝对不得编造或修改任何数据与事实。
 ```
 
 # ChatGPT 
 
 ## For abstract
 ```
-You are a professional copy editor with ample experience handling scientific texts. Revise the following abstract from a manuscript so that it follows a context–content–conclusion scheme.
-(1) The context portion communicates to the reader the gap that the paper will fill. The first sentence orients the reader by introducing the broader field. Then, the context is narrowed until it lands on the open question that the research answers. A successful context section distinguishes the research’s contributions from the current state of the art, communicating what is missing in the literature (that is, the specific gap) and why that matters (that is, the connection between the specific gap and the broader context).
-(2) The content portion (for example, ‘here, we …’) first describes the new method or approach that was used to fill the gap, then presents an executive summary of results.
-(3) The conclusion portion interprets the results to answer the question that was posed at the end of the context portion. There might be a second part to the conclusion portion that highlights how this conclusion moves the broader field forward (for example, ‘broader significance’).
+You are a professional copy editor with ample experience handling scientific texts. Revise the
+following abstract from a manuscript so that it follows a context–content–conclusion scheme.
+(1) The context portion communicates to the reader the gap that the paper will fill. The first
+sentence orients the reader by introducing the broader field. Then, the context is narrowed
+until it lands on the open question that the research answers. A successful context section
+distinguishes the research’s contributions from the current state of the art, communicating
+what is missing in the literature (that is, the specific gap) and why that matters (that is,
+the connection between the specific gap and the broader context).
+(2) The content portion (for example, ‘here, we …’) first describes the new method or approach
+that was used to fill the gap, then presents an executive summary of results.
+(3) The conclusion portion interprets the results to answer the question that was posed at the
+end of the context portion. There might be a second part to the conclusion portion that highlights
+how this conclusion moves the broader field forward (for example, ‘broader significance’).
 ```
 
 
 ### 回复审稿意见
 ```
-Assume you’re an English paper proofreader and seasoned scholar with 20+ years of academic experience in deep learning. Please help me review my
-responses to REVIEWERS’ COMMENTS, be brief and to the point. If there are any problems with my replies, please provide suggestions or improvements.
+Assume you’re an English paper proofreader and seasoned scholar with 20+ years of academic
+experience in deep learning. Please help me review myresponses to REVIEWERS’ COMMENTS, be
+brief and to the point. If there are any problems with my replies, please provide suggestions or improvements.
 ```
 
 ### 提审稿意见
 ```
-Assume you’re an expert and seasoned scholar with 20+ years of academic experience in deep learning. On the basis of my summary of a paper in continual learning, where the main focus is on class-incremental learning, provide a detailed review of this paper, in the following order: 1) briefly discuss its core content; 2) identify its limitations; and 3) explain the significance of each limitation in order of importance. Maintain a concise and professional tone throughout.
+Assume you’re an expert and seasoned scholar with 20+ years of academic experience in deep learning.
+On the basis of my summary of a paper in continual learning, where the main focus is on
+class-incremental learning, provide a detailed review of this paper, in the following order:
+1) briefly discuss its core content; 2) identify its limitations; and 3) explain the significance
+of each limitation in order of importance. Maintain a concise and professional tone throughout.
 ```
 
 ### 论文 Rebuttal, Review 过程中可能使用的一个 Prompt：
 ```
-Prompt：I want you to act as an English translator, spelling corrector and improver. I will speak to you in any language and you will detect the language, translate it and answer in the corrected and improved version of my text, in English. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, upper level English words and sentences. Keep the meaning same, but make them more literary and professional. I want you to only reply the correction, the improvements and nothing else, do not write explanations.
+Prompt：I want you to act as an English translator, spelling corrector and improver. I will speak to you in
+any language and you will detect the language, translate it and answer in the corrected and improved
+version of my text, in English. I want you to replace my simplified A0-level words and sentences with
+more beautiful and elegant, upper level English words and sentences. Keep the meaning same, but make
+them more literary and professional. I want you to only reply the correction, the improvements and
+nothing else, do not write explanations.
 
 My sentence：
 ```
@@ -51,7 +79,10 @@ My sentence：
 ### 论文 Rebuttal 时可能用到的一个 Prompt：
 
 ```
-Prompt: You are a researcher who has submitted a paper for review. The reviewers have provided comments on your paper, and you need to write a response to address their concerns. Using the reviewer’s comments below and the main reply point to generate a response that addresses the issues they have raised.
+Prompt: You are a researcher who has submitted a paper for review. The reviewers have provided
+comments on your paper, and you need to write a response to address their concerns. Using the
+reviewer’s comments below and the main reply point to generate a response that addresses the
+issues they have raised.
 
 Reviewer’s comments:
 
@@ -60,8 +91,10 @@ The main reply point:
 
 ### 润色学术论文的段落的一个 Prompt：
 ```
-Prompt: As an AI writing assistant, your task is to enhance the spelling, grammar, clarity, concision, and overall readability of the provided text. Additionally, you should break down lengthy sentences, minimize repetition, and suggest improvements wherever possible. Your output should consist solely of the corrected English version of the text.
-
+Prompt: As an AI writing assistant, your task is to enhance the spelling, grammar, clarity,
+concision, and overall readability of the provided text. Additionally, you should break
+down lengthy sentences, minimize repetition, and suggest improvements wherever possible.
+Your output should consist solely of the corrected English version of the text.
 Please begin by editing the following text:
 ```
 
@@ -84,7 +117,8 @@ Below is content that you need to revise:
 
 ### AI ChatGPT 2
 ```
-As a Chinese academic paper writing improvement assistant. Please revise the given English writting based on the following principles, the paragraph from an academic angle based on the writting style of the Nature journal: 
+As a Chinese academic paper writing improvement assistant. Please revise the given English writting based on the following principles,
+the paragraph from an academic angle based on the writting style of the Nature journal: 
 
 1. Streamline content: i will help remove redundant, repetitive, or irrelevant content to make the writting more concise and compact.
 2. Enhance paragraph transitions: i will provide better connecting and transitional sentences to make the relationship between paragraphs clearer and smoother.
@@ -99,7 +133,9 @@ Below is content that you need to revise:
 
 ## 检查文本问题
 ```
-Act as a proofreader and review the following text. Assume you’re an English paper proofreader and seasoned scholar with 20+ years of academic experience in deep learning. please help me check and rectify and spelling errors, grammer mistakes, Verb Tense Consistency and punctuation issues to ensure accuracy and adherence to standard conventions.
+Act as a proofreader and review the following text. Assume you’re an English paper proofreader and seasoned scholar
+with 20+ years of academic experience in deep learning. please help me check and rectify and spelling errors,
+grammer mistakes, Verb Tense Consistency and punctuation issues to ensure accuracy and adherence to standard conventions.
 Show all changes in bold so I can see what has been updated.
 ```
 
@@ -107,22 +143,29 @@ Show all changes in bold so I can see what has been updated.
 
 ### 润色表题
 ```
-Please enhance the caption for Table Y to highlight the significance of the experimental results shown. Clarify any patterns that are important and how they contribute to the study's conclusions.
+Please enhance the caption for Table Y to highlight the significance of the experimental results shown.
+Clarify any patterns that are important and how they contribute to the study's conclusions.
 ```
 
 ### 润色图题
 ```
-Please rewrite the caption of Figure X to make it more academic and precise. Emphasize the technical details and purpose of the figure clearly, using formal language appropriate for scholarly writing.
+Please rewrite the caption of Figure X to make it more academic and precise.
+Emphasize the technical details and purpose of the figure clearly,
+using formal language appropriate for scholarly writing.
 ```
 
 ### 润色方法图
 ```
-Please revise the caption for Figure X to concisely describe the methodology illustrated. Ensure it’s clear what each part of the figure represents and its relevance to the process.
+Please revise the caption for Figure X to concisely describe the methodology illustrated.
+Ensure it’s clear what each part of the figure represents and its relevance to the process.
 ```
 
 ### There way to use ChatGPT
 ```
-I’m writing a paper on class incremental learning for a leading deep learning academic journal. What I tried to say in the following section is introduction of brain-inpired continual learning. Please rephrase it for clarity, coherence and conciseness, ensuring each paragraph flows into the next. Remove jargon. Use a professional tone.
+I’m writing a paper on class incremental learning for a leading deep learning academic journal.
+What I tried to say in the following section is introduction of brain-inpired continual learning.
+Please rephrase it for clarity, coherence and conciseness, ensuring each paragraph flows into the next.
+Remove jargon. Use a professional tone.
 ```
 ### Quick Prompts
 
@@ -167,7 +210,7 @@ I’m working on a postdoctoral fellowship application. Can you please review my
 and suggest ways to better align it with the American Heart Association’s mission?
 ```
 ```
-How can I better align my proposal to specifically address the <insert specific criteria> outlined in 
+How can I better align my proposal to specifically address the <specific criteria> outlined in 
 this funding announcement for <insert name of funding opportunity>?
 ```
 
