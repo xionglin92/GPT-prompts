@@ -45,6 +45,7 @@ that was used to fill the gap, then presents an executive summary of results.
 (3) The conclusion portion interprets the results to answer the question that was posed at the
 end of the context portion. There might be a second part to the conclusion portion that highlights
 how this conclusion moves the broader field forward (for example, ‘broader significance’).
+Show all changes in bold so I can see what has been updated.
 ```
 
 
@@ -92,8 +93,8 @@ The main reply point:
 ```
 Prompt: As an AI writing assistant, your task is to enhance the spelling, grammar, clarity,concision, and overall readability
 of the provided text. Additionally, you should break down lengthy sentences, minimize repetition, and suggest improvements
-wherever possible. Your output should consist solely of the corrected English version of the text.
-Please begin by editing the following text:
+wherever possible. Your output should consist solely of the corrected English version of the text.Show all changes in bold
+so I can see what has been updated. Please begin by editing the following text:
 ```
 
 
@@ -116,7 +117,7 @@ the expression and semantic precision of the writting.
 details or relevant information.
 7. Enhance readability, such as converting long sentences into shorter ones: i will modify long
 sentences to make them easier to understand and read, while maintaining conciseness.
-
+Show all changes in bold so I can see what has been updated.
 Below is content that you need to revise:
 ```
 
@@ -149,7 +150,7 @@ Please revise the caption for Figure X to concisely describe the methodology ill
 Ensure it’s clear what each part of the figure represents and its relevance to the process.
 ```
 
-### There way to use ChatGPT
+### 3种GPT科研使用方式：
 ```
 I’m writing a paper on class incremental learning for a leading deep learning academic journal.
 What I tried to say in the following section is introduction of brain-inpired continual learning.
@@ -158,7 +159,7 @@ Remove jargon. Use a professional tone.
 ```
 ### Quick Prompts
 
-#### To enhance text clarity
+#### 提高文本清晰度：
 ```
 As a non-native English speaker, kindly help me revise the following text for improved understanding
 and clarity. Please check for spelling and sentence structure errors and suggest alternatives.
@@ -181,7 +182,7 @@ for the grant reviewer.
 I’m trying to hook my reader with a strong introduction. Can you suggest a more captivating first
 sentence to draw them in from the start?
 ```
-#### To improve structure and flow of text
+#### 提神整体结构和流畅度：
 ```
 I want to improve the overall structure of my Specific Aims. What tips do you have to structure it
 more effectively?
@@ -193,7 +194,7 @@ aspects of our approach?
 ```
 Please provide detailed feedback on the flow and sequence of my research strategy 
 ```
-#### To better align with the funding agency’s mission
+#### 项目对齐单位的任务：
 ```
 I’m working on a postdoctoral fellowship application. Can you please review my closing paragraph
 and suggest ways to better align it with the American Heart Association’s mission?
@@ -209,7 +210,7 @@ I am applying to <insert fellowship name>. Please provide me feedback on how wel
 addressing this review criteria: <insert specific review criteria>, and suggestions for what I am
 missing and how I can improve.
 ```
-#### To develop a strong grant title
+#### 选择一个好的资助选题：
 ```
 Suggest five potential titles for a grant proposal that will attract readers while encompassing the 
 research question and key elements from the provided abstract <insert abstract summary>
