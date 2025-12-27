@@ -79,10 +79,9 @@ My sentence：
 ### 论文 Rebuttal 时可能用到的一个 Prompt：
 
 ```
-Prompt: You are a researcher who has submitted a paper for review. The reviewers have provided
-comments on your paper, and you need to write a response to address their concerns. Using the
-reviewer’s comments below and the main reply point to generate a response that addresses the
-issues they have raised.
+Prompt: You are a researcher who has submitted a paper for review. The reviewers have provided comments on your paper,
+and you need to write a response to address their concerns. Using the reviewer’s comments below and the main reply
+point to generate a response that addresses the issues they have raised.
 
 Reviewer’s comments:
 
@@ -91,42 +90,56 @@ The main reply point:
 
 ### 润色学术论文的段落的一个 Prompt：
 ```
-Prompt: As an AI writing assistant, your task is to enhance the spelling, grammar, clarity,
-concision, and overall readability of the provided text. Additionally, you should break
-down lengthy sentences, minimize repetition, and suggest improvements wherever possible.
-Your output should consist solely of the corrected English version of the text.
+Prompt: As an AI writing assistant, your task is to enhance the spelling, grammar, clarity,concision, and overall readability
+ of the provided text. Additionally, you should break down lengthy sentences, minimize repetition, and suggest improvements
+wherever possible. Your output should consist solely of the corrected English version of the text.
 Please begin by editing the following text:
 ```
 
 
 ### AI ChatGPT 1
 ```
-I am writing a paper for nature, this is the abstract of my paper. I want you to act as an academic journal editor and English paper proofreader. Please revise the given English writting based on the following principles,
+I am writing a paper for nature, this is the abstract of my paper. I want you to act as an academic journal editor and English
+paper proofreader. Please revise the given English writting based on the following principles,
  the paragraph from an academic angle based on the writting style of the Nature journal: 
 
-1. Streamline content: i will help remove redundant, repetitive, or irrelevant content to make the writting more concise and compact.
-2. Enhance paragraph transitions: i will provide better connecting and transitional sentences to make the relationship between paragraphs clearer and smoother.
-3. Improve sentence transitions: i will ensure logical coherence and continuity between sentences by incorporation appropriate words, phrases, or sentences.
-4. Correct spelling, grammer, and punctuation: i will check and rectify and spelling errors, grammer mistakes, and punctuation issues to ensure accuracy and adherence to standard conventions.
-5. Replace inappropriate vocabulary: i will suggest more accurate and suitable word choices to improve the expression and semantic precision of the writting.
-6. Add more specific details: if necessary, i will offer suggestions to enrich the content with specific details or relevant information.
-7. Enhance readability, such as converting long sentences into shorter ones: i will modify long sentences to make them easier to understand and read, while maintaining conciseness.
+1. Streamline content: i will help remove redundant, repetitive, or irrelevant content to make the writting more concise and
+compact.
+2. Enhance paragraph transitions: i will provide better connecting and transitional sentences to make the relationship between
+ paragraphs clearer and smoother.
+3. Improve sentence transitions: i will ensure logical coherence and continuity between sentences by incorporation appropriate
+ words, phrases, or sentences.
+4. Correct spelling, grammer, and punctuation: i will check and rectify and spelling errors, grammer mistakes, and punctuation
+ issues to ensure accuracy and adherence to standard conventions.
+5. Replace inappropriate vocabulary: i will suggest more accurate and suitable word choices to improve the expression and
+semantic precision of the writting.
+6. Add more specific details: if necessary, i will offer suggestions to enrich the content with specific details or
+relevant information.
+7. Enhance readability, such as converting long sentences into shorter ones: i will modify long sentences to make them
+easier to understand and read, while maintaining conciseness.
 Below is content that you need to revise:
 
 ```
 
 ### AI ChatGPT 2
 ```
-As a Chinese academic paper writing improvement assistant. Please revise the given English writting based on the following principles,
-the paragraph from an academic angle based on the writting style of the Nature journal: 
+As a Chinese academic paper writing improvement assistant. Please revise the given English writting based on the following
+principles, the paragraph from an academic angle based on the writting style of the Nature journal: 
 
-1. Streamline content: i will help remove redundant, repetitive, or irrelevant content to make the writting more concise and compact.
-2. Enhance paragraph transitions: i will provide better connecting and transitional sentences to make the relationship between paragraphs clearer and smoother.
-3. Improve sentence transitions: i will ensure logical coherence and continuity between sentences by incorporation appropriate words, phrases, or sentences.
-4. Correct spelling, grammer, and punctuation: i will check and rectify and spelling errors, grammer mistakes, and punctuation issues to ensure accuracy and adherence to standard conventions.
-5. Replace inappropriate vocabulary: i will suggest more accurate and suitable word choices to improve the expression and semantic precision of the writting.
-6. Add more specific details: if necessary, i will offer suggestions to enrich the content with specific details or relevant information.
-7. Enhance readability, such as converting long sentences into shorter ones: i will modify long sentences to make them easier to understand and read, while maintaining conciseness.
+1. Streamline content: i will help remove redundant, repetitive, or irrelevant content to make the writting more concise
+and compact.
+2. Enhance paragraph transitions: i will provide better connecting and transitional sentences to make the relationship
+between paragraphs clearer and smoother.
+3. Improve sentence transitions: i will ensure logical coherence and continuity between sentences by incorporation
+appropriate words, phrases, or sentences.
+4. Correct spelling, grammer, and punctuation: i will check and rectify and spelling errors, grammer mistakes, and
+punctuation issues to ensure accuracy and adherence to standard conventions.
+5. Replace inappropriate vocabulary: i will suggest more accurate and suitable word choices to improve the
+expression and semantic precision of the writting.
+6. Add more specific details: if necessary, i will offer suggestions to enrich the content with specific
+details or relevant information.
+7. Enhance readability, such as converting long sentences into shorter ones: i will modify long sentences
+to make them easier to understand and read, while maintaining conciseness.
 Below is content that you need to revise:
 
 ```
