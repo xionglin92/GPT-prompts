@@ -91,7 +91,7 @@ The main reply point:
 ### 润色学术论文的段落的一个 Prompt：
 ```
 Prompt: As an AI writing assistant, your task is to enhance the spelling, grammar, clarity,concision, and overall readability
- of the provided text. Additionally, you should break down lengthy sentences, minimize repetition, and suggest improvements
+of the provided text. Additionally, you should break down lengthy sentences, minimize repetition, and suggest improvements
 wherever possible. Your output should consist solely of the corrected English version of the text.
 Please begin by editing the following text:
 ```
@@ -99,9 +99,9 @@ Please begin by editing the following text:
 
 ### AI ChatGPT 1
 ```
-I am writing a paper for nature, this is the abstract of my paper. I want you to act as an academic journal editor and English
-paper proofreader. Please revise the given English writting based on the following principles,
- the paragraph from an academic angle based on the writting style of the Nature journal: 
+I am writing a paper for nature, this is the abstract of my paper. I want you to act as an academic journal editor and
+English paper proofreader. Please revise the given English writting based on the following principles,
+the paragraph from an academic angle based on the writting style of the Nature journal: 
 
 1. Streamline content: i will help remove redundant, repetitive, or irrelevant content to make the writting more concise and
 compact.
