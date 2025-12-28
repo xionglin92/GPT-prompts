@@ -150,13 +150,23 @@ Please revise the caption for Figure X to concisely describe the methodology ill
 Ensure it’s clear what each part of the figure represents and its relevance to the process.
 ```
 
-### 3种GPT科研使用方式：
+### 作为作者打磨稿件：
 ```
 I’m writing a paper on class incremental learning for a leading deep learning academic journal.
 What I tried to say in the following section is introduction of brain-inpired continual learning.
 Please rephrase it for clarity, coherence and conciseness, ensuring each paragraph flows into the next.
 Remove jargon. Use a professional tone.
 ```
+### 作为审稿人提意见：
+```
+Assume you're an expert and seasoned scholar with 20+ years of academic experience in 
+deep learning. On the basis of my summary of a paper in machine learning, where the main focus is on 
+continual learning, provide a detailed review of this paper, in the following order: 
+1) briefly discuss its core content; 2) identify its limitations; and
+3) explain the significance of each limitation in order of importance.
+Maintain a concise and professional tone throughout.
+```
+
 ### Quick Prompts
 
 #### 提高文本清晰度：
